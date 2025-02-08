@@ -3,23 +3,30 @@
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 
-This repository contains projects built during the **[Flutter & Dart - The Complete Guide](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)** Udemy course by Maximilian Schwarzmüller. The course covers everything from Flutter/Dart fundamentals to advanced cross-platform app development.
+This repository contains projects built during the **[Flutter & Dart - The Complete Guide](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)** Udemy course  covering everything from the basics to advanced concepts to build **high-performance, cross-platform mobile applications** for **iOS and Android**.
 
-<img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/certificate.jpg" width="70%" alt="Course Completion Certificate">
+<img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/certificate.jpg" width="85%" alt="Course Completion Certificate">
 
-## 🌟 Key Course Features
-- **30+ hours** of hands-on content (fully updated May 2023)
-- Build **6 production-ready apps** with complex features
-- Master **Flutter widgets**, **state management**, and **Dart programming**
-- Integrate **Google Maps**, **camera**, **authentication**, **push notifications**, and more
-- Learn professional **debugging** and **performance optimization** techniques
-- Backend integration with **HTTP requests** and **Firebase**
+### 🎯 Key Learnings
+- Build **6 production-ready apps**
+- Master **Flutter widgets, state management, and Dart**
+- Integrate **Google Maps, camera, authentication, push notifications**
+- Backend integration with **HTTP requests & Firebase**
+- Learn **debugging & performance optimization**
 
-## 🛠️ Technologies & Skills
-![State Management](https://img.shields.io/badge/State_Management-Provider%20%7C%20Riverpod-blue)
-![Navigation](https://img.shields.io/badge/Navigation-GoRouter%20%7C%20Stack-brightgreen)
-![Backend](https://img.shields.io/badge/Backend-Firebase%20%7C%20REST_API-important)
-![UI](https://img.shields.io/badge/UI-Responsive_Design%20%7C%20Animations-9cf)
+### 🛠️ Technologies & Skills
+![State Management](https://img.shields.io/badge/State_Management-Provider%20%7C%20Riverpod-blue)<br>
+![Navigation](https://img.shields.io/badge/Navigation-GoRouter%20%7C%20Stack-brightgreen)<br>
+![Backend](https://img.shields.io/badge/Backend-Firebase%20%7C%20REST_API-important)<br>
+![UI](https://img.shields.io/badge/UI-Responsive_Design%20%7C%20Animations-9cf)<br>
+
+### ⚙️ Tools Used
+- **Flutter & Dart**: Core development tools
+- **Google Maps API**: Map integration
+- **Firebase**: Authentication & backend services
+- **HTTP Requests**: Backend communication
+- **State Management**: Provider, Riverpod
+
 
 ## 📱 Projects Showcase
 
