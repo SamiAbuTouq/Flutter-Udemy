@@ -1,16 +1,10 @@
-# test3
+## 4. Shopping List - CRUD Operations
+###### Overview
 
-A new Flutter project.
+The Shopping List app allows users to maintain and manage their shopping lists by adding items with  details such as the item name, quantity, and category.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="left">
+  <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/4.%20shopping_list_app/%20(2).png" width="30%">
+  <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/4.%20shopping_list_app/%20(1).png" width="30%">
+  <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/4.%20shopping_list_app/%20(3).png" width="30%">
+</p>
