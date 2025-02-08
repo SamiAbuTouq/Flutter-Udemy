@@ -6,8 +6,8 @@
 
 This repository contains projects built during the **[Flutter & Dart - The Complete Guide](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)** Udemy course  covering everything from the basics to advanced concepts to build **high-performance, cross-platform mobile applications** for **iOS and Android**.
 <p align="center">
-<img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/certificate.jpg" width="85%" alt="Course Completion Certificate">
-</p?
+  <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/certificate.jpg" width="85%" alt="Course Completion Certificate">
+</p>
 ### 🎯 Key Learnings
 - Build **6 production-ready apps**
 - Master **Flutter widgets, state management, and Dart**
@@ -111,6 +111,6 @@ A chat application allows users to send and receive messages, features push noti
    flutter run
    ```
 
----
+--
 
 
