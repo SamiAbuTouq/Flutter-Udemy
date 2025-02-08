@@ -1,5 +1,5 @@
 ## 4. Shopping List - CRUD Operations
-###### Overview
+### Overview
 
 The Shopping List app allows users to maintain and manage their shopping lists by adding items with  details such as the item name, quantity, and category.
 
