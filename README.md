@@ -37,8 +37,8 @@ An Expense Tracker App allows users to register their expenses and also allow us
   <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/2.%20expense_tracker_app/(1).png" width="30%">
   <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/2.%20expense_tracker_app/(3).png" width="30%">
   <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/2.%20expense_tracker_app/(2).png" width="30%">
-  <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/2.%20expense_tracker_app/(4).png" width="30%">
 </p>
+  <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/2.%20expense_tracker_app/(4).png" width="30%">
 
 ### Meals App:
 The Meals App which allows users to browse various meal categories, pick meals, and read the meal ingredients and instructions, mark meals as favorites, switch between all meals and favorited meals, and also switch to a totally different page where various filters can be set to filter the meals that will actually be shown in this all meals area.
@@ -77,5 +77,5 @@ A chat application allows users to send and receive messages, features push noti
   <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/6.%20chat_app/%20(1).png" width="30%">
   <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/6.%20chat_app/%20(2).png" width="30%">
   <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/6.%20chat_app/%20(3).png" width="30%">
-  <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/6.%20chat_app/%20(4).png" width="30%">
 </p>
+  <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/6.%20chat_app/%20(4).png" width="30%">
