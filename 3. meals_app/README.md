@@ -6,5 +6,8 @@ The Meals App which allows users to browse various meal categories, pick meals, 
 <p align="left">
   <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/3.%20meals_app/%20(1).png" width="30%">
   <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/3.%20meals_app/%20(3).png" width="30%">
+  <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/3.%20meals_app/%20(4).png" width="30%">
   <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/3.%20meals_app/%20(5).png" width="30%">
+  <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/3.%20meals_app/%20(2).png" width="30%">
+  <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/3.%20meals_app/%20(6).png" width="30%">
 </p>
