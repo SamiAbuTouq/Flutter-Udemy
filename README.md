@@ -1,7 +1,8 @@
 # 🚀 Flutter & Dart - The Complete Guide Projects
 
-![Static Badge](https://img.shields.io/badge/Flutter-black?style=flat&logo=Flutter&logoColor=white&link=https%3A%2F%2Fflutter.dev)
-![Static Badge](https://img.shields.io/badge/Dart-black?style=flat&logo=dart&logoColor=white&link=https%3A%2F%2Fflutter.dev)
+[![Flutter](https://img.shields.io/badge/Flutter-black?style=flat&logo=Flutter&logoColor=white&link=https%3A%2F%2Fflutter.dev)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-black?style=flat&logo=dart&logoColor=white&link=https%3A%2F%2Fflutter.dev)](https://dart.dev)
+
 
 This repository contains projects built during the **[Flutter & Dart - The Complete Guide](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)** Udemy course  covering everything from the basics to advanced concepts to build **high-performance, cross-platform mobile applications** for **iOS and Android**.
 
