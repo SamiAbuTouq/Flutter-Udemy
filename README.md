@@ -8,6 +8,7 @@ This repository contains projects built during the **[Flutter & Dart - The Compl
 <p align="center">
   <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/certificate.jpg" width="85%" alt="Course Completion Certificate">
 </p>
+
 ### 🎯 Key Learnings
 - Build **6 production-ready apps**
 - Master **Flutter widgets, state management, and Dart**
