@@ -112,6 +112,5 @@ A chat application allows users to send and receive messages, features push noti
    flutter run
    ```
 
---
 
 
