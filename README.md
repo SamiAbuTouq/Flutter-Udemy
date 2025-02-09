@@ -49,6 +49,7 @@ An Expense Tracker App allows users to register their expenses and also allow us
   <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/2.%20expense_tracker_app/(1).png" width="30%">
   <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/2.%20expense_tracker_app/(3).png" width="30%">
   <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/2.%20expense_tracker_app/(2).png" width="30%">
+  <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/2.%20expense_tracker_app/(4).png" width="30%">
 </p>
 
 
@@ -58,7 +59,10 @@ The Meals App which allows users to browse various meal categories, pick meals, 
 <p align="left">
   <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/3.%20meals_app/%20(1).png" width="30%">
   <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/3.%20meals_app/%20(3).png" width="30%">
+  <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/3.%20meals_app/%20(4).png" width="30%">
   <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/3.%20meals_app/%20(5).png" width="30%">
+  <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/3.%20meals_app/%20(2).png" width="30%">
+  <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/3.%20meals_app/%20(6).png" width="30%">
 </p>
 
 
@@ -88,6 +92,7 @@ A chat application allows users to send and receive messages, features push noti
 <p align="left">
   <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/6.%20chat_app/%20(1).png" width="30%">
   <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/6.%20chat_app/%20(2).png" width="30%">
+  <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/6.%20chat_app/%20(3).png" width="30%">
   <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/6.%20chat_app/%20(4).png" width="30%">
 </p>
 
