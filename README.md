@@ -1,4 +1,4 @@
-# 🚀 Flutter & Dart - The Complete Guide Projects
+# Flutter & Dart - The Complete Guide Projects
 
 [![Flutter](https://img.shields.io/badge/Flutter-black?style=flat&logo=Flutter&logoColor=white&link=https%3A%2F%2Fflutter.dev)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-black?style=flat&logo=dart&logoColor=white&link=https%3A%2F%2Fflutter.dev)](https://dart.dev)
@@ -9,20 +9,20 @@ This repository contains projects built during the **[Flutter & Dart - The Compl
   <img src="https://github.com/SamiAbuTouq/Flutter-Udemy/blob/main/images/certificate.jpg" width="85%" alt="Course Completion Certificate">
 </p>
 
-### 🎯 Key Learnings
+### Key Learnings
 - Build **6 production-ready apps**
 - Master **Flutter widgets, state management, and Dart**
 - Integrate **Google Maps, camera, authentication, push notifications**
 - Backend integration with **HTTP requests & Firebase**
 - Learn **debugging & performance optimization**
 
-### 🛠️ Technologies & Skills
+### Technologies & Skills
 ![State Management](https://img.shields.io/badge/State_Management-Provider%20%7C%20Riverpod-blue)<br>
 ![Navigation](https://img.shields.io/badge/Navigation-GoRouter%20%7C%20Stack-brightgreen)<br>
 ![Backend](https://img.shields.io/badge/Backend-Firebase%20%7C%20REST_API-important)<br>
 ![UI](https://img.shields.io/badge/UI-Responsive_Design%20%7C%20Animations-9cf)<br>
 
-### ⚙️ Tools Used
+### Tools Used
 - **Flutter & Dart**: Core development tools
 - **State Management**: Riverpod
 - **HTTP Requests**: Backend communication
@@ -100,7 +100,7 @@ A chat application allows users to send and receive messages, features push noti
 
 ## 💻 Getting Started
 1. Clone repository
-2. Install **Flutter SDK**: 👉 [Install Flutter](https://flutter.dev/docs/get-started/install)
+2. Install **Flutter SDK**: [Install Flutter](https://flutter.dev/docs/get-started/install)
 3. Install an **IDE** (e.g., [Android Studio](https://developer.android.com/studio), [VS Code](https://code.visualstudio.com/)) with the Flutter and Dart plugins.  
 4. Clone this repository:  
    ```sh
